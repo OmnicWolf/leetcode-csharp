@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{B2A8491A-78F4-4447-A2CC-2045E2987348}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Readme.md">
+    <Files>
+      <File FileName="Readme.md" Line="9" Column="59" />
+      <File FileName="Leetcode/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Leetcode" expanded="True">
+            <Node name="Leetcode" expanded="True">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Leetcode FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
