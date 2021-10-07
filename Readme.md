@@ -22,6 +22,7 @@
 ### Medium
 | Problem | Runtime | Percentile |
 | ------- | ------- | ---------- |
+| 36. Valid Sudoku | 108ms | 74.10% |
 | 50. Pow(x, n) | 20ms | 100.00% |
 
 ### Hard
