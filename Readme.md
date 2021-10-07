@@ -14,8 +14,17 @@
 - TypeScript Solutions – [Ryo112358/leetcode-typescript](https://github.com/Ryo112358/leetcode-typescript)
 
 ### Easy
-- <span title="Runtime Percentile: 71.44%">1. Two Sum</span>
-- <span title="Runtime Percentile: 77.98%">125. Valid Palindrome</span>
+| Problem | Runtime | Percentile |
+| ------- | ------- | ---------- |
+| 1. Two Sum | 112ms | 100.00% |
+| 125. Valid Palindrome | 76ms | 90.15% |
 
 ### Medium
-- <span title="Runtime Percentile: 60.03%">50. Pow(x, n)</span>
+| Problem | Runtime | Percentile |
+| ------- | ------- | ---------- |
+| 50. Pow(x, n) | 20ms | 100.00% |
+
+### Hard
+| Problem | Runtime | Percentile |
+| ------- | ------- | ---------- |
+| 42. Trapping Rain Water | 84ms | 99.59% |

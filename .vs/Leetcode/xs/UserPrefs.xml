@@ -1,22 +1,33 @@
-﻿<Properties StartupConfiguration="{B2A8491A-78F4-4447-A2CC-2045E2987348}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Readme.md">
+﻿<Properties StartupConfiguration="{DBDF5058-59AC-47B1-9E47-103B8CADCB62}|Default">
+  <MonoDevelop.Ide.ItemProperties.LeetcodeTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Leetcode/Hard/TrappingRainWater.cs">
     <Files>
-      <File FileName="Readme.md" Line="9" Column="59" />
-      <File FileName="Leetcode/Program.cs" />
+      <File FileName="Leetcode/Hard/TrappingRainWater.cs" Line="14" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Leetcode" expanded="True">
+            <Node name="Solution Items" expanded="True" />
             <Node name="Leetcode" expanded="True">
-              <Node name="Dependencies" selected="True" />
+              <Node name="Easy" expanded="True" />
+              <Node name="Hard" expanded="True">
+                <Node name="TrappingRainWater.cs" selected="True" />
+              </Node>
+              <Node name="Medium" expanded="True" />
+            </Node>
+            <Node name="LeetcodeTests" expanded="True">
+              <Node name="Easy" expanded="True" />
+              <Node name="Hard" expanded="True" />
+              <Node name="Medium" expanded="True" />
+              <Node name="Utility" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Leetcode FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Leetcode PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

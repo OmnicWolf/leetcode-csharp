@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetcodeTests", "LeetcodeTests\LeetcodeTests.csproj", "{DBDF5058-59AC-47B1-9E47-103B8CADCB62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{B2A8491A-78F4-4447-A2CC-2045E2987348}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2A8491A-78F4-4447-A2CC-2045E2987348}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2A8491A-78F4-4447-A2CC-2045E2987348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDF5058-59AC-47B1-9E47-103B8CADCB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDF5058-59AC-47B1-9E47-103B8CADCB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDF5058-59AC-47B1-9E47-103B8CADCB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDF5058-59AC-47B1-9E47-103B8CADCB62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

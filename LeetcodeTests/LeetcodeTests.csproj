@@ -9,10 +9,15 @@
     <None Remove="Easy\" />
     <None Remove="Medium\" />
     <None Remove="Hard\" />
+    <None Remove="Utility\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Easy\" />
     <Folder Include="Medium\" />
     <Folder Include="Hard\" />
+    <Folder Include="Utility\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Leetcode\Leetcode.csproj" />
   </ItemGroup>
 </Project>

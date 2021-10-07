@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = LeetcodeTests
+build_property.ProjectDir = /Users/ryo/Documents/Playground/C#/projects/Leetcode/LeetcodeTests/
