@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Leetcode.Hard
+﻿namespace Leetcode.Hard
 {
     /*
      * Problem: 42. Trapping Rain Water

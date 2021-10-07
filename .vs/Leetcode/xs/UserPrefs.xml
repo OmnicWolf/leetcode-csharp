@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{DBDF5058-59AC-47B1-9E47-103B8CADCB62}|Default">
   <MonoDevelop.Ide.ItemProperties.LeetcodeTests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Leetcode/Hard/TrappingRainWater.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Readme.md">
     <Files>
-      <File FileName="Leetcode/Hard/TrappingRainWater.cs" Line="14" Column="35" />
+      <File FileName="Leetcode/Medium/ValidSudoku.cs" Line="6" Column="33" />
+      <File FileName="Readme.md" Line="31" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,10 +12,10 @@
             <Node name="Solution Items" expanded="True" />
             <Node name="Leetcode" expanded="True">
               <Node name="Easy" expanded="True" />
-              <Node name="Hard" expanded="True">
-                <Node name="TrappingRainWater.cs" selected="True" />
+              <Node name="Hard" expanded="True" />
+              <Node name="Medium" expanded="True">
+                <Node name="ValidSudoku.cs" selected="True" />
               </Node>
-              <Node name="Medium" expanded="True" />
             </Node>
             <Node name="LeetcodeTests" expanded="True">
               <Node name="Easy" expanded="True" />
