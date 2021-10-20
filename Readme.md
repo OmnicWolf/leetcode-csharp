@@ -5,8 +5,8 @@
 
 ## Environment
 - <span title="Release: Sep 2021">Visual Studio 2019 for Mac v8.10</span>
-    - .NET SDK v5.0.401
-    - .NET Core v3.1.19
+    - .NET SDK 5.0.402
+    - .NET Core SDK 3.1.414
 
 ## Problems Completed
 
@@ -18,12 +18,14 @@
 | ------- | ------- | ---------- |
 | 1. Two Sum | 112ms | 100.00% |
 | 125. Valid Palindrome | 76ms | 90.15% |
+| 206. Reverse Linked List | 76ms | 99.61% |
 
 ### Medium
 | Problem | Runtime | Percentile |
 | ------- | ------- | ---------- |
 | 36. Valid Sudoku | 108ms | 74.10% |
 | 50. Pow(x, n) | 20ms | 100.00% |
+| 92. Reverse Linked List II | 84ms | 92.62% |
 
 ### Hard
 | Problem | Runtime | Percentile |

@@ -9,10 +9,12 @@
     <None Remove="Easy\" />
     <None Remove="Medium\" />
     <None Remove="Hard\" />
+    <None Remove="DataStuctures\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Easy\" />
     <Folder Include="Medium\" />
     <Folder Include="Hard\" />
+    <Folder Include="DataStuctures\" />
   </ItemGroup>
 </Project>

@@ -4,7 +4,10 @@ namespace Leetcode.Easy
 {
     /*
      * Problem: 125. Valid Palindrome
+     * 
+     * Difficulty: Easy
      * Acceptance Rate: 39.7%
+     * 
      * URL: https://leetcode.com/problems/valid-palindrome/
      */
     public class ValidPalindrome

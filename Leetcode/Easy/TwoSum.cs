@@ -4,7 +4,10 @@ namespace Leetcode.Easy
 {
     /*
      * Problem: 1. Two Sum
+     * 
+     * Difficulty: Easy
      * Acceptance Rate: 47.7%
+     * 
      * URL: https://leetcode.com/problems/two-sum/
      */
     public class TwoSum

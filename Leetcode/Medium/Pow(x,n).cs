@@ -4,7 +4,10 @@ namespace Leetcode.Medium
 {
     /*
      * Problem: 50. Pow(x, n)
+     * 
+     * Difficulty: Medium
      * Acceptance Rate: 31.5%
+     * 
      * URL: https://leetcode.com/problems/powx-n/
      */
     public class Pow_x_n

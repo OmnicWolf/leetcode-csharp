@@ -2,7 +2,10 @@
 {
     /*
      * Problem: 42. Trapping Rain Water
+     * 
+     * Difficulty: Hard
      * Acceptance Rate: 53.9%
+     * 
      * URL: https://leetcode.com/problems/trapping-rain-water/
      */
     public class TrappingRainWater

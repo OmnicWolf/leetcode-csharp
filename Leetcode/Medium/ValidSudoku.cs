@@ -4,7 +4,10 @@ namespace Leetcode.Medium
 {
     /*
      * Problem: 36. Valid Sudoku
+     * 
+     * Difficulty: Medium
      * Acceptance Rate: 53.1%
+     * 
      * URL: https://leetcode.com/problems/valid-sudoku/
      */
     public class ValidSudoku
